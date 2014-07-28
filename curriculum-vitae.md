@@ -25,7 +25,7 @@ This isn't an exhaustive list, but it hopefully highlights the primary areas I h
 * PHP (& MVC frameworks)
 * OOP principles
 * RESTful architecture
-* Good old HTML5/CSS3
+* HTML5 & CSS3
 * SASS & LESS preprocessors
 * Responsive and Mobile web principles
 * JavaScript
@@ -44,13 +44,26 @@ In addition to that I have also worked on some smaller projects in a more indepe
 
 *Sep 2012 - Jan 2014* **Web Developer @ Agency Republic**
 
+After making the jump up from being a junior this phase of my career saw me becoming more involved in the estimation and planning of projects. I also had the opportunity to take more of a leading role within the team for front-end development and provided oversight and management for freelancers in the team. 
+
+I got to work on a number of big projects in more central roles than previously, which was a great experince. Some highlights include the Agency Republic website, the Like Ralph campaign for Disney and the JD Track Mats campaign. These were all great pieces of work which benefitted from inter-disciplinary cohesion. 
+
+I also worked on a lot of other smaller projects, mostly for Nivea. These were generally smaller scale and less technically interesting, but still challenging for their prolific quantity and localisation requirements.
+
+
 ------------------
 
 *Sep 2010 - Sep 2012* **Junior Developer @ Agency Republic**
 
+As a junior I was often working in a supporting role for the more senior devs; I would do a lot of bug fixing and updates for existing projects. I also worked in more limited roles on some of the largest projects going through the agency, such as the Smirnoff Nightlife Exchange Project and Activia's TLC Plan. 
+
+However, I was still given the opportunity to work independently on interesting projects, albeit at the smaller end of the scale. I did some fun projects for Nivea and Danone Shape especially, who tended towards offering smaller briefs that could be tackled by a team of just one or two devs.
+
 ------------------
 
 *May 2010 - Sep 2010* **Creative Support Technologist @ Agency Republic**
+
+The role of a Creative Support Technologist could basically be summed up as a jack of all trades support resource. I was part of a team of three and we worked on pretty much whatever was asked of us. Banner resizes, T&C updates, copy updates, microsite builds, data capture forms, HTML emails; we did it all and much more beside. Plus a lot of making tea. It was often mundane work, but offered great opportunities to learn from the rest of the team. 
 
 
 ### Education
@@ -59,7 +72,7 @@ In addition to that I have also worked on some smaller projects in a more indepe
 * *2000 - 2003* **9 IGCSEs @ Lusaka International Community School** 2 As, 4 Bs, 3 Cs
 
 
-
+### References available on request
 
 
 
