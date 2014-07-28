@@ -34,8 +34,7 @@ This isn't an exhaustive list, but it hopefully highlights the primary areas I h
 * Facebook API
 
 ### Employment History
-*Jan 2014 - Present*
-**Developer @ Critical Mass London**
+*Jan 2014 - Present* **Developer @ Critical Mass London**
 
 My primary role since being at CM has been as a front-end dev. I have been working on several web properties of a large international bank in collaboration with a huge, globally distributed team as well as remote third parties who handle back-end and CMS integration. The core challenge of this side of the job has been getting to grips with the processes and code base of such large projects.
 
@@ -43,19 +42,21 @@ In addition to that I have also worked on some smaller projects in a more indepe
 
 ------------------
 
-*Sep 2012 - Jan 2014*
-**Web Developer @ Agency Republic**
+*Sep 2012 - Jan 2014* **Web Developer @ Agency Republic**
 
 ------------------
 
-*Sep 2010 - Sep 2012*
-**Junior Developer @ Agency Republic**
+*Sep 2010 - Sep 2012* **Junior Developer @ Agency Republic**
 
 ------------------
 
-*May 2010 - Sep 2010*
-**Creative Support Technologist @ Agency Republic**
+*May 2010 - Sep 2010* **Creative Support Technologist @ Agency Republic**
 
+
+### Education
+* *2006 - 2009* **BA(Hons) Interactive Media Production @ Bournemouth University** 2:1
+* *2004 - 2006* **BTEC National Diploma in Media (Moving Image) @ Milton Keynes College** Distinction Distinction Merit
+* *2000 - 2003* **9 IGCSEs @ Lusaka International Community School** 2 As, 4 Bs, 3 Cs
 
 
 
