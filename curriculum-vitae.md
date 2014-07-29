@@ -9,7 +9,7 @@
 
 ### Social Media
 * Twitter: *[@thealscott](http://twitter.com/thealscott)*
-* LinkedIn: *[linkedin.com/thealscott](http://linkedin.com/thealscott)*
+* LinkedIn: *[uk.linkedin.com/pub/al-scott/53/17/681/](http://uk.linkedin.com/pub/al-scott/53/17/681/)*
 * Github: *[github.com/thealscott](http://github.com/thealscott)*
 
 ### Bio
