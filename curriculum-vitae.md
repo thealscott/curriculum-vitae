@@ -13,7 +13,7 @@
 * Github: *[github.com/thealscott](http://github.com/thealscott)*
 
 ### Bio
-I'm a full-stack developer that leans a little to the front-end side of things. I've worked on small builds as a solo dev as well as on larger builds with a team in both dedicated front-end and back-end roles.
+I'm a developer that leans a little to the front-end side of things. I've worked on small builds as a solo dev as well as on larger builds with a team in both dedicated front-end and back-end roles.
 
 In addition to working with other devs I also have experience of working closely with designers and creatives to develop a project from concept to end product. Some of the best projects I have been involved with have had this collaborative process at their heart.   
 
