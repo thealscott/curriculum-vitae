@@ -15,19 +15,19 @@
 ### Bio
 I'm a developer that leans a little to the front-end side of things. I've worked on small builds as a solo dev as well as on larger builds with a team in both dedicated front-end and back-end roles.
 
-In addition to working with other devs I also have experience of working closely with designers and creatives to develop a project from concept to end product. Some of the best projects I have been involved with have had this collaborative process at their heart.   
+In addition to working with other devs I have often worked closely with designers and creatives to develop a project from concept to end product. This would typically involve providing technical insight into opportunities and limitations, as well as prototyping for selling work into the client or for exploring feasibility.
 
-Over the last 4+ years I've been lucky enough to have the chance to work with a lot of very skilled and talented people on some fun and interesting projects for great brands like Jack Daniels, Disney and Nivea. Please check out my website for a more comprehensive list of projects I've been involved in.
+Over the last 4+ years I've been lucky enough to have the chance to work with a lot of very skilled and talented people on some fun and interesting projects for great brands like Jack Daniels, Disney, Tropicana and Nivea. Please check out my website for a more comprehensive list of projects I've been involved in.
 
 ### Skills
 This isn't an exhaustive list, but it hopefully highlights the primary areas I have experience and skill in. 
 
+* Responsive and Mobile web principles
+* HTML5 & CSS3
+* SASS & LESS preprocessors
 * PHP (& MVC frameworks)
 * OOP principles
 * RESTful architecture
-* HTML5 & CSS3
-* SASS & LESS preprocessors
-* Responsive and Mobile web principles
 * JavaScript
 * Jekyll
 * Workflow and deployment tools (e.g. Grunt, Capistrano)
