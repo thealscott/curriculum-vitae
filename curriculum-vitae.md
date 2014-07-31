@@ -46,7 +46,7 @@ In addition to that I have also worked on some smaller projects in a more indepe
 
 After making the jump up from being a junior this phase of my career saw me becoming more involved in the estimation and planning of projects. I also had the opportunity to take more of a leading role within the team for front-end development and provided oversight and management for freelancers in the team. 
 
-I got to work on a number of big projects in more central roles than previously, which was a great experince. Some highlights include the Agency Republic website, the Like Ralph campaign for Disney and the JD Track Mats campaign. These were all great pieces of work which benefitted from inter-disciplinary cohesion. 
+I got to work on a number of big projects in more central roles than previously, which was a great experience. Some highlights include the Agency Republic website, the Like Ralph campaign for Disney and the JD Track Mats campaign. These were all great pieces of work which benefitted from inter-disciplinary cohesion. 
 
 I also worked on a lot of other smaller projects, mostly for Nivea. These were generally smaller scale and less technically interesting, but still challenging for their prolific quantity and localisation requirements.
 
