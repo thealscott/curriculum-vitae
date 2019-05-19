@@ -1,11 +1,10 @@
 # Alasdair Scott
 ## Curriculum Vitae
-*Last Updated: 24/03/2016*
+*Last Updated: 19/05/2019*
 
 ### Contact Details
 * Email: *thealscott@gmail.com*
 * Tel: *07594 306671*
-* Website: *[thealscott.co.uk](http://thealscott.co.uk)*
 
 ### Social Media
 * Twitter: *[@thealscott](http://twitter.com/thealscott)*
@@ -13,35 +12,49 @@
 * Github: *[github.com/thealscott](http://github.com/thealscott)*
 
 ### Bio
-I'm a frontend developer, though I have a few years of backend experience as well. I've worked on small builds as a solo dev as well as on larger builds with a team in both dedicated front-end and back-end roles.
+I'm a frontend web developer. In the last few years I've mostly been working with React & Redux, but over my career I've worked in Flash, PHP, Ruby, and more JS libraries and frameworks than I can remember. I've worked on small builds as a solo dev as well as on larger builds with a team in both dedicated front-end and back-end roles.
 
 In addition to working with other devs I have often worked closely with designers and creatives to develop a project from concept to end product. This would typically involve providing technical insight into opportunities and limitations, as well as prototyping for selling work into the client or for exploring feasibility.
 
-Over the last 5+ years I've been lucky enough to have the chance to work with a lot of very skilled and talented people on some fun and interesting projects for great brands like Jack Daniels, Disney, Tropicana and Nivea. Please check out my website for a more comprehensive list of projects I've been involved in.
+Over my 8+ years as a developer I've been lucky enough to have the chance to work with a lot of very skilled and talented people, both in my time working on the YunoJuno web app, and before that, on many advertising & marketing projects for great brands like Jack Daniels, Disney, Tropicana and Nivea.
+
+In the last few years, I have also had the opportunity to help teach and train less experienced developers, which I have found very rewarding. 
 
 ### Skills
-This isn't an exhaustive list, but it hopefully highlights the primary areas I have experience and skill in. 
+This isn't an exhaustive list, but it hopefully highlights some key areas I have experience and skill in. 
 
 * Responsive and Mobile web principles
-* HTML5 & CSS3
-* SASS & LESS preprocessors
-* JavaScript (& frameworks)
+* Agile development processes
+* HTML & CSS
+* Various CSS preprocessors
+* JavaScript
+* React & Redux
+* Static website generators (Gatsby, Jekyll)
 * PHP (& MVC frameworks)
-* OOP principles
-* RESTful architecture
-* Jekyll
-* Workflow and deployment tools (e.g. Gulp, Grunt)
+* Workflow and deployment tools (Gulp, Grunt, Webpack)
 
 ### Employment History
-*Nov 2014 - Present* **Senior Frontend Developer @ Uber Digital**
+*July 2016 - Present* **Frontend Developer @ YunoJuno**
 
-Nothing to do with taxis, Uber Digital is an agency dealing in web design and motion graphics. In my time at here I've had the opportunity to work on sites and apps for big brands like KFC, Total and Zurich, as well as smaller brands such as GT Nexus and Landstar. 
+YunoJuno is a recruitment tool, allowing creative industry employers to find talented freelancers who match their project requirements. In addition, YJ acts as a payment middleman, giving greater security to the freelancers, and greater flexibility to the employers.  
 
-The projects have been a mix of internal tools, business facing and consumer facing sites and apps. The variety of the work has meant that I have been constantly faced with new challenges to overcome, often with tight deadlines.
+When I joined, the platform was primarily backend template rendered with some jQuery spaghetti on top to snazz things up. My remit has been to work closely with the design team and product managers to help develop richer, more interactive, and more reliable interfaces for our new features, as well as improving old ones.
 
-Uber's primary frontend stack utilises Backbone heavily but I have also started working with Redux & React on recent projects. There is a strong emphasis on creating fluid, animated interfaces with rich designs, often incorporating video and photography produced in-house. 
+To that end, I've been working alongside the team in redeveloping the frontend using React & Redux, which has been quite a challenge. The benefits to reliability and ease of maintenance have been well worth the effort though.
 
-I've also had to learn about .NET and Drupal, as the bulk of our builds utilise one or the other for the backend, depending on client requirments. 
+As our team has expanded, my responsibilities have also expanded; I help mentor our less experienced developers and collaborate with the senior leadership to set our code standards and development practices. 
+
+------------------
+
+*Nov 2014 - July 2016* **Senior Frontend Developer @ Uber Digital**
+
+Nothing to do with taxis, Uber Digital was an agency dealing in web design and motion graphics. In my time there I had the opportunity to work on sites and apps for big brands like KFC, Total and Zurich, as well as smaller brands such as GT Nexus and Landstar. 
+
+The projects were a mix of internal tools, business facing and consumer facing sites and apps. The variety of the work has meant that I was constantly faced with new challenges to overcome, often with tight deadlines.
+
+Uber's primary frontend stack utilised Backbone heavily but I also started working with Redux & React on later projects. There is a strong emphasis on creating fluid, animated interfaces with rich designs, often incorporating video and photography produced in-house. 
+
+I also had to learn about .NET and Drupal, as the bulk of our builds utilise one or the other for the backend, depending on client requirments. 
 
 ------------------
 
@@ -61,12 +74,11 @@ I got to work on a number of big projects in more central roles than previously,
 
 I also worked on a lot of other smaller projects, mostly for Nivea. These were generally smaller scale and less technically interesting, but still challenging for their prolific quantity and localisation requirements.
 
-
 ------------------
 
 *Sep 2010 - Sep 2012* **Junior Developer @ Agency Republic**
 
-As a junior I was often working in a supporting role for the more senior devs; I would do a lot of bug fixing and updates for existing projects. I also worked in more limited roles on some of the largest projects going through the agency, such as the Smirnoff Nightlife Exchange Project and Activia's TLC Plan. 
+As a junior I was often working in a supporting role for the more senior devs; I would do a lot of bug fixing and updates for existing projects. I also worked in more limited roles on some of the largest projects going through the agency for brands like Smirnoff and Activia.
 
 However, I was still given the opportunity to work independently on interesting projects, albeit at the smaller end of the scale. I did some fun projects for Nivea and Danone Shape especially, who tended towards offering smaller briefs that could be tackled by a team of just one or two devs.
 
@@ -78,13 +90,12 @@ The role of a Creative Support Technologist could basically be summed up as a ja
 
 
 ### Education
+
 * *2006 - 2009* **BA(Hons) Interactive Media Production @ Bournemouth University** 2:1
 * *2004 - 2006* **BTEC National Diploma in Media (Moving Image) @ Milton Keynes College** Distinction Distinction Merit
 * *2000 - 2003* **9 IGCSEs @ Lusaka International Community School** 2 As, 4 Bs, 3 Cs
 
 
 ### References available on request
-
-
 
 
