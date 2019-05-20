@@ -42,6 +42,8 @@ When I joined, the platform was primarily backend template rendered with some jQ
 
 To that end, I've been working alongside the team in redeveloping the frontend using React & Redux, which has been quite a challenge. The benefits to reliability and ease of maintenance have been well worth the effort though.
 
+In addition, I worked on rebuilding our marketing site in August 2018 using Gatsby.
+
 As our team has expanded, my responsibilities have also expanded; I help mentor our less experienced developers and collaborate with the senior leadership to set our code standards and development practices. 
 
 ------------------
